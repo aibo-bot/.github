@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Welcome to aibo's official open-source organization!
+
+aibo is a discord bot, built with the sole purpose of engaging **large** communities with all sorts of games, from daily qotds, truth or dares, to even emulating classic gameboy games on discord.
+
+aibo also comes with its own global currency, built to spend wherever you like on discord, to unlock super cool goodies and prizes within the aibo platform!
+
 <!--
 
 **Here are some ideas to get you started:**
